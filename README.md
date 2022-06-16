@@ -1,3 +1,11 @@
+# Simple Feed Reader
+  It’s a **Razor Pages** app from the Microsoft ASP.NET Learning path. 
+
+> ### VERSIONS
+> #### The `master` branch is currently running ASP.NET Core 6.0.
+> #### Older versions are tagged.
+
+![Screenshot 2.0](./Screenshot20.jpg "Screenshot 2.0")
 
 # Contributing
 
