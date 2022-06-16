@@ -1,4 +1,4 @@
-# Simple Feed Reader
+# ASP.NET Sample Web App
   It’s a **Razor Pages** app from the Microsoft ASP.NET Learning path. 
 
 > ### VERSIONS
